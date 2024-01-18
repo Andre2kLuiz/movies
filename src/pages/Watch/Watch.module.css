@@ -1,0 +1,8 @@
+.watch {
+    width: 75vw;
+    height: 75vh;
+    padding-top: 84px;
+    display: flex;
+    justify-content: center;
+    padding-left: 450px;
+}
